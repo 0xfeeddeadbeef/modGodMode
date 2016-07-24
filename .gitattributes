@@ -1,0 +1,19 @@
+
+[attr]wintext text eol=crlf
+
+# Default behavior to automatically normalize line endings
+*.* wintext
+
+*.txt wintext
+*.xml wintext
+*.cmd wintext
+*.bat wintext
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.ttf binary
