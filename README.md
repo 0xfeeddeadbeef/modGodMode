@@ -1,6 +1,7 @@
 # modGodMode
 
 The Witcher 3 God Mode
+
 Compatible with The Witcher III Blood and Wine (Version 1.22)
 
 - Immortality while switched to Quen
