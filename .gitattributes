@@ -17,5 +17,5 @@
 *.zip binary
 *.7z binary
 *.ttf binary
-*.ws wintext
+*.ws text eol=crlf diff
 
